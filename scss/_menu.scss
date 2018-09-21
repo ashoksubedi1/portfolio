@@ -87,10 +87,10 @@
       transform: translate3d(0, 0, 0);
     }
     .portrait {
-      width: 250px;
-      height: 250px;
-      background: url("../img/portrait.jpg");
-      border-radius: 50%;
+      width: 200px;
+      height: 222px;
+      background: url("../img/Me.jpg");
+      border-radius: 60%;
       border: solid 3px $secondary-color;
     }
   }
