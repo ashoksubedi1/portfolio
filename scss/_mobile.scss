@@ -35,18 +35,18 @@
     }
   }
   .menu-nav {
-    height: 95vh;
+    height: 70vh;
     transform: translate3d(-100%, 0, 0);
-    font-size: 24px;
+    font-size: 23px;
   }
   .menu-branding {
-    height: 28vh;
+    height: 30vh;
     transform: translate3d(100%, 0, 0);
 
     .portrait {
       background: url("../img/Me.jpg");
       width: 190px;
-      height: 700px;
+      height: 300px;
     }
   }
   .about-info {
